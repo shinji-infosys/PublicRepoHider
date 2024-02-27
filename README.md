@@ -1,4 +1,7 @@
-# gas-GitHub
+# PublicRepoHider
+
+## 内容
+Github orgnizationのリポジトリ一覧からで公開設定がPublicの物を検出してPrivateに変更する
 
 ## 使い方
 スクリプトプロパティに下記を設定します。
